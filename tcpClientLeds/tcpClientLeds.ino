@@ -2,7 +2,7 @@
 #include "WiFiClientHandler.h"
 #include "Led.h"
 
-WiFiClientHandler wifiHandler("TIGO 2", "SARAI246", "192.168.0.11", 8000);
+WiFiClientHandler wifiHandler("Prueba", "12345678", "192.168.234.72", 8000);
 
 const int LED_GREEN = 33;
 const int LED_YELLOW = 32;
